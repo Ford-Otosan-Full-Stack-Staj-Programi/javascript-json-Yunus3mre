@@ -7,4 +7,4 @@ Patika HW3
 source.json dosyası projeye eklendi.
 Daha sonra bu dosya içerisinde bulunan elementler assistant ve group değerlerine göre gruplandırıldı ve index.html sayfasında ekrana yazıldı.
 
-*Proje Vite.js kullanılarak geliştirildi.başka herhangi bir 3. parti kütüphane kullanılmadı.  
+*Proje Vite.js kullanılarak geliştirildi.Başka herhangi bir 3. parti kütüphane kullanılmadı.  
